@@ -1,1 +1,2 @@
-Paper bets: 0 total, 0 settled, 0 still open
+PAPER BETS: 0 logged, 0 settled, 0 still open
+WATCH ROWS (not bets, shots too low): 0

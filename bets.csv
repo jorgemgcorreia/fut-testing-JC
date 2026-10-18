@@ -1,1 +1,1 @@
-fixture_id,logged_at_utc,league,home,away,minute,score,goals_at_bet,market,line,odds,total_shots,shots_on_target,corners,stake,status,final_goals,profit
+fixture_id,logged_at_utc,league,home,away,minute,score,goals_at_bet,market,line,odds,total_shots,shots_on_target,corners,stake,qualified,status,final_goals,profit
